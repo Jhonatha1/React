@@ -1,5 +1,4 @@
-#The project consists of a To-Do List, where you can mark a task as completed and unmark it if it's not done. Additionally, you can add a new task by typing its name and pressing the 'Enter' key on the keyboard. The project is still simple, lacking extensive styling and the ability to remove tasks. Therefore, I will continue my studies to implement these missing features
-
+# The project consists of a To-Do List, where you can mark a task as completed and unmark it if it's not done. Additionally, you can add a new task by typing its name and pressing the 'Enter' key on the keyboard. The project is still simple, lacking extensive styling and the ability to remove tasks. Therefore, I will continue my studies to implement these missing features
 
 # Getting Started with Create React App
 
