@@ -1,5 +1,7 @@
 # The project consists of a To-Do List, where you can mark a task as completed and unmark it if it's not done. Additionally, you can add a new task by typing its name and pressing the 'Enter' key on the keyboard. The project is still simple, lacking extensive styling and the ability to remove tasks. Therefore, I will continue my studies to implement these missing features
 
+![image](https://github.com/Jhonatha1/React/assets/88850852/164672f4-d9e7-45e0-a8e2-dead7be490c5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
